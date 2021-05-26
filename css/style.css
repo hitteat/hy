@@ -19,7 +19,7 @@ header {
 h1 {
     font-family:'Homemade Apple', cursive;
     color: var(--color-two);
-    text-shadow: 2px 1px 0px var(--color-blacksecond);
+    text-shadow: 2px 2px 0px var(--color-blacksecond);
 }
 
 nav{
