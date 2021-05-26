@@ -1,7 +1,6 @@
-h2{
+h3{
+    font-size: 30px;
     font-family: 'Syne Mono', monospace;
-    color: var(--color-two);
-    font-size: 40px;
     text-shadow: 2px 3px 3px var(--color-black);
-
- }
+    color: var(--color-third);
+}
