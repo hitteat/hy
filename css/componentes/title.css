@@ -1,0 +1,7 @@
+h2{
+    font-family: 'Roboto Slab', serif;
+    color: var(--color-two);
+    font-size: 40px;
+    text-shadow: 2px 3px 3px var(--color-black);
+
+ }
