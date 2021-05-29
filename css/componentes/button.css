@@ -2,10 +2,10 @@
     display: inline-block;
     background-color:var(--color-two);
     box-shadow: 5px 5px 0px var(--color-black);
-    padding: 18px 16px;
+    padding: 15px 15px;
     margin-right: 0;
     transition: transform 100ms cubic-bezier(.45, 0.82, 0.165, 1);
-    font-size: 20px;
+    font-size: 18px;
     text-decoration: none;
     color: var(--color-black);
     transform: scale(1.02);
