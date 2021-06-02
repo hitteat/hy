@@ -1,0 +1,6 @@
+.section {
+    background-color: var(--color-third);
+    padding-top: 20px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid var(--color-black);
+}
