@@ -1,0 +1,15 @@
+.skill-tec {
+    display: flex;
+    font-family: 'Syne Mono', monospace;
+    font-size: 25px;
+    color: var(--color-four)
+}
+.skill-tec .icon{
+margin-right: 25px;
+}
+
+.skill-tec .right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
